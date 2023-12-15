@@ -12,7 +12,7 @@
 "Jinbe"
 */
 
-หลังแก้ไข
+After Edit
 
 #include <iostream>
 #include<string>
