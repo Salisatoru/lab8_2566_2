@@ -16,7 +16,8 @@ int main()
   return 0;
 }
 
-หลังแก้ไข 
+After Edit
+
 #include <iostream>
 using namespace std;
 
